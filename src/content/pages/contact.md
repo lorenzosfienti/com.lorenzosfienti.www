@@ -2,13 +2,13 @@
 title: Get in touch
 seo:
   title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  description: Feel free to reach out and let me know how I can assist you.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Thanks for stopping by!
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+Whether you’ve got a question, a suggestion, or just want to say hello, I’d love to hear from you. Here’s how you can reach me:
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+Shoot me an email at lorenzo.sfienti[at]gmail.com, and I’ll get back to you as soon as I can.
+
+Let’s connect on [Twitter](https://twitter.com/lorenzosfienti) or [LinkedIn](https://www.linkedin.com/in/lorenzosfienti). I’m always happy to chat!
